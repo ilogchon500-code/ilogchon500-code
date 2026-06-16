@@ -1,4 +1,5 @@
 # About-Me
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRuamYxc3dqZDd1ZnpmbjlvZ3N2NGE5dW4wcG9jd2FzeGplajc4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qUB8aayj9DNQI/giphy.gif
 
 ---
 # Hello World, I'm Chon
