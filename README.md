@@ -3,7 +3,7 @@ this is about.me page
 # Hello World, I'm Jimson Ilog
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=chon.dev&label=Profile%20views&color=0cb4d8&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ilogchon500-code&label=Profile%20views&color=0cb4d8&style=flat-square" alt="Profile Views" />
 </p>
 
 ### Biography
@@ -46,8 +46,8 @@ I am a Grade 11 ICT Student who loves to self-study, explore new tech, and build
 ### Performance Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chon.dev&show_icons=true&theme=tokyonight&count_private=true" alt="Jimson's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chon.dev&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilogchon500-code&show_icons=true&theme=tokyonight&count_private=true" alt="Jimson's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilogchon500-codedev&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
 ---
