@@ -65,4 +65,5 @@ I am a Grade 11 ICT Student who loves to self-study, explore new tech, and build
 ### Contact & Network
 * **Portfolio:** [chon-dev-portfolio.netlify.app](https://chon-dev-portfolio.netlify.app/)
 * **Email:** ilogjimson1215@gmail.com
-* **Facebook:** [Jimson Ilog](https://www.facebook.com/search/top?q=Jimson%20Ilog)
+* **Facebook:** [Jimson Ilog](https://www.facebook.com/defnot.chon)
+* **Instagram** [hey.chon](https://www.instagram.com/hey.chon?utm_source=qr)
