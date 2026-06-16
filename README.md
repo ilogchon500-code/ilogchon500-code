@@ -1,5 +1,6 @@
 # About-Me
-this is about.me page
+
+---
 # Hello World, I'm Chon
 
 <p align="left">
