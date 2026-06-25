@@ -8,7 +8,7 @@
 </p>
 
 ### Biography
-I am a Grade 11 ICT Student who loves to self-study, explore new tech, and build projects using an AI-assisted workflow. As a student developer, I focus on creating clean and responsive websites. So far, I have built over 11+ websites using HTML, CSS, and JavaScript, and I also hold 3 online course certifications from government and non-government organizations.
+I am a Grade 11 ICT Student who loves to self-study, explore new tech, and build projects using an AI-assisted workflow. As a student developer, I focus on creating clean and responsive websites. So far, I have built over 13+ web projects using HTML, CSS, and JavaScript, and I also hold 3 online course certifications from government and non-government organizations.
 
 ---
 
