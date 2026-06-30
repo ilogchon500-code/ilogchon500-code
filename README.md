@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="28" height="28" style="vertical-align: middle;" /> About-Me
+# 🚀 About-Me
 
 ---
 # Hello World, I'm Chon
@@ -7,12 +7,12 @@
   <img src="https://komarev.com/ghpvc/?username=hey-chon&label=Profile%20views&color=0cb4d8&style=flat-square" alt="Profile Views" />
 </p>
 
-### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" width="20" height="20" style="vertical-align: middle;" /> Biography
+### 💻 Biography
 I am a Grade 11 ICT Student who loves to self-study, explore new tech, and build projects using an AI-assisted workflow. As a student developer, I focus on creating clean and responsive websites. So far, I have built over 13+ web projects using HTML, CSS, and JavaScript, and I also hold 3 online course certifications from government and non-government organizations.
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/preact.svg" width="20" height="20" style="vertical-align: middle;" /> Technical Stack & Tools
+### 🛠️ Technical Stack & Tools
 
 | Category | Technologies |
 | :--- | :--- |
@@ -22,7 +22,7 @@ I am a Grade 11 ICT Student who loves to self-study, explore new tech, and build
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gitbook.svg" width="20" height="20" style="vertical-align: middle;" /> Featured Projects
+### 📂 Featured Projects
 
 #### 1. My Personal Portfolio
 * **Description:** My personal portfolio website showcasing my web development projects and journey.
@@ -41,18 +41,18 @@ I am a Grade 11 ICT Student who loves to self-study, explore new tech, and build
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googleanalytics.svg" width="20" height="20" style="vertical-align: middle;" /> Performance Metrics
+### 📊 Performance Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.xyz/api?username=hey-chon&show_icons=true&theme=dracula&count_private=true" alt="Jimson's GitHub Stats" height="180px" />
-  
-  <img src="https://github-readme-stats.xyz/api/top-langs/?username=hey-chon&layout=compact&theme=dracula" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.xyz/api?username=hey-chon&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800" alt="Jimson's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.xyz/api/top-langs/?username=hey-chon&layout=compact&theme=dracula&cache_seconds=1800" alt="Top Languages" height="180" />
 </p>
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/handshake.svg" width="20" height="20" style="vertical-align: middle;" /> Contact & Network
+### ✉️ Contact & Network
 * **Portfolio:** [chon-dev-portfolio.netlify.app](https://chon-dev-portfolio.netlify.app/)
 * **Email:** ilogjimson1215@gmail.com
 * **Facebook:** [Jimson Ilog](https://www.facebook.com/defnot.chon)
 * **Instagram** [hey.chon](https://www.instagram.com/hey.chon?utm_source=qr)
+* 
